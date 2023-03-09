@@ -1,0 +1,102 @@
+.ganesh {
+    /* background-image: url(../../assets/des.png); */
+    background-color: aqua;
+    margin: 20%;
+    /* background-image: url(../../assets/des.png); */
+    /* filter: opacity(55%); */
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(../../assets/des.png);
+    
+}
+
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 10%;
+  }
+input[type=text], input[type=password] {
+    width: 40%;
+    padding: 12px 20px;
+    border-radius: 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+/*   
+.logbox {
+    width: 320px;
+    height: 420px;
+    background: rgb(138, 192, 215);
+    color: #fff;
+    top: 0%;
+    left: 30%;
+    bottom: 50%;
+    position: absolute;
+    transform: translate(-50, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+
+}
+
+h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.logbox p {
+    width: 100%;
+    padding: 0;
+    font-weight: bold;
+
+}
+
+.logbox input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.logbox input[type="text"],
+input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    margin: 10%;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.logbox input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.logbox a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+}
+
+.logbox button {
+    background-color: aqua;
+}
+.container{
+    padding: 10%;
+} */
